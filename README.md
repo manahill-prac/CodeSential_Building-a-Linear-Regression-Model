@@ -25,15 +25,8 @@ Build a simple **Linear Regression** model to predict house prices (`MEDV`) usin
 
 ### **How to Run**
 1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-````
-
+     pip install -r requirements.txt
 2. Open the notebook in **Jupyter** or **Colab**.
 3. Execute all cells sequentially.
 
 
-
-
-I can also **create downloadable files** for both `requirements.txt` and `README.md` if you want. Do you want me to do that?
-```
